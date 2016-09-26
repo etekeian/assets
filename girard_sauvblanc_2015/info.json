@@ -1,0 +1,62 @@
+{
+    "winery": "Girard",
+    "wine": "Sauvignon Blanc",
+    "vintage": "2015",
+    "alcohol": "13.9%",
+    "winemakers": [ "Glenn Hugo" ],
+    "appellation": [ "Napa Valley" ],
+    "composition": [ "100% Sauvignon Blanc" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Glenn's philosophy is simple: wine is to be shared with friends and family; it is a living and breathing expression that constantly evolves and instills memories. With this in mind, he is driven to allow Napa Valley shine through in every bottle."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Girard’s “ambitiously efficient” state of the art winery, located in the Carneros district, was constructed in 2007 and employs cutting edge energy saving initiatives that result in a carbon neutral footprint. Even with these improvements we still employ traditional winemaking techniques.  All of the fruit is hand sorted and our Sauvignon Blanc is fermented in stainless steel and does not undergo secondary fermentation."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The sourcing for this wine is just as diverse as Bordeaux varietals due to the great variety of flavor profiles available in the valley.  By selecting fruit from St. Helena and South Eastern Napa Valley, this wine balances tropical character with crisp acidity."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Aromatics uphold lemon, passion fruit and stone fruit. The palate begins with bright, crisp acidity followed by tropical mango and green apple. Focused citrus and white peach round out the finish, making this the perfect companion for spring."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Fresh oysters with lemon aioli."
+                }
+            ]
+        }
+    ]
+}

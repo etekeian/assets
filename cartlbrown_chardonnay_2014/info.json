@@ -1,0 +1,50 @@
+{
+    "winery": "Cartlidge & Browne",
+    "wine": "Chardonnay",
+    "vintage": "2014",
+    "alcohol": "13.5%",
+    "appellation": [ "North Coast" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Tony Cartlidge, co-founder of Cartlidge & Browne, is a dreamer with a love of wine and a fondness for taking the road less traveled.  After several attempts at different occupations and a few fortune hunts, he fell upon an idea to become a vintner. After hopping in his Rambler and making his way to Napa, where he talked his way into a winery tour guide job, there was no stopping him."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "As far as they could tell, Cartlidge & Browne saw no need to buy an estate.  All that mattered was a desire to seek out the best vineyards, harvest the best grapes and make the best wine possible.  They brought the harvest back to a simple garage winery to handcraft wines in a way that honored the “garagistes” style of renegade small-lot winemakers."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Aromas of pear and Granny Smith apple with background notes of caramel and baking spices."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "A dry-aged Parmesan cheese or butter and herb dipped lobster tail."
+                }
+            ]
+        }
+    ]
+}

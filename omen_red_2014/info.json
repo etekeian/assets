@@ -1,0 +1,62 @@
+{
+    "winery": "Omen",
+    "wine": "Red Blend",
+    "vintage": "2014",
+    "alcohol": "14.1%",
+    "winemakers": [ "Alexandre Remy" ],
+    "appellation": [ "Sierra Foothills" ],
+    "composition": [ "40% Cabernet Sauvignon", "40% Zinfandel", "15% Merlot", "5% Pinot Noir" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Hailing from Rennes, France, Remy holds a master’s degree in food science from the University of Montpellier. His desire to make wine took him to Marlborough, New Zealand, France’s Northern Rhone region, Victoria, Australia and California’s Napa Valley."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Atlas Wine Company was founded in 2012 as a new-generation farming company with more than 100 years of combined expertise developing and farming world-class vineyards and providing high-quality grapes to more than 250 wineries."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "In order to create the complex foundation of Omen, we work with a vibrant community of distinguished vineyards across the Sierra Foothills. Each block has been fermented separately to be able to preserve the characteristics of the varietal and the vineyard."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Omen Red Blend is an explosion of flavors and intensity. From spices to cassis and dark cherry notes, the complexity of the blend transcends into subtle notes of leather and dark chocolate. A very bold and powerful wine that is still approachable and balanced."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Omen is great with steak, ribs and duck. Any kind of barbecue will be complemented with this wine."
+                }
+            ]
+        }
+    ]
+}

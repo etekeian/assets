@@ -1,0 +1,61 @@
+{
+    "winery": "Francis Coppola",
+    "wine": "Syrah-Shiraz",
+    "productName": "Francis Coppola\nDiamond\nSyrah-Shiraz",
+    "vintage": "2014",
+    "alcohol": "13.9%",
+    "winemakers": [ "Corey Beck" ],
+    "appellation": [ "California" ],
+    "composition": [ "75% Syrah", "25% Petite Sirah" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Director of Winemaking and General Manager Corey Beck has more than 20 years of experience in the wine industry. Corey joined Inglenook (formerly Rubicon Estate, Niebaum-Coppola) in 1998 as their assistant winemaker. In 2006, the Coppola family purchased the historic Château Souverain property in Sonoma County, providing a home for the ever-popular Diamond Collection wines, and appointed Corey as director of winemaking and general manager."
+                },
+                {
+                    "type": "quote",
+                    "text": "Harvest is not only about turning grapes into wine, but it’s a reflection of Mother Nature’s work throughout the growing season.",
+                    "authorName": "Corey Beck",
+                    "authorExtra": "Director of Winemaking"
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "quote",
+                    "text": "The quality and authenticity of Diamond Collection is extremely important because we are a family company and our name is on the label. As such, you can trust that we’ll always give you the very best.",
+                    "authorName": "Francis Ford Coppola",
+                    "authorExtra": null
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Our Diamond Collection Syrah-Shiraz is sourced from three distinct vineyards in the central coast. Our San Lucas fruit develops a high level of concentration and intense blackberry aromas while our Paso Robles fruit offers contrasting red fruit flavors and a rich, velvety texture. We blend in small amounts of Petite Sirah from Hames Valley, creating a wine that is dark and lush. These fruit selections produce a complex wine that has depth, structure and intense aromatics."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The 2014 growing season was extremely dry and warm. Sunny summer days ripened the fruit ahead of schedule setting us up for an unusually early harvest. When the fruit was brought in it showed wonderful concentration and great palate density, while retaining a nice balance of natural acidity. Our Syrah-Shiraz offers good weight and moderate tannins as well as luscious dark fruit impressions and briary, fragrant spice notes."
+                }
+            ]
+        }
+    ]
+}

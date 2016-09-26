@@ -1,0 +1,62 @@
+{
+    "winery": "Pine Ridge Vineyards",
+    "wine": "Chenin Blanc + Viognier",
+    "vintage": "2014",
+    "alcohol": "12.5%",
+    "winemakers": [ "Michael Beaulac" ],
+    "appellation": [ "Clarksburg & Lodi" ],
+    "composition": [ "80% Chenin Blanc", "20% Viogner" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "It was 20 years ago that we married Chenin Blanc with a selection of Viognier, and our knees buckled when we tasted how deliciously these two varietals worked together. We are proud to be a pioneer with this unique and irresistible wine."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Pine Ridge founder Gary Andrus, inspired by the illustrious wines of Bordeaux, believed in the Napa Valley’s potential to produce wines of similar stature. He planted the original namesake vineyard on a terraced hillside in the Stags Leap District."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Pine Ridge has crafted this unusual and delectable blend, creating one of our most beloved and popular wines. This unique marriage of two varietals that would never share the same bottle in their native France unites the crisp, honeyed fruit of Chenin Blanc with the plush body and juicy stone fruit notes of Viognier. It’s a wine that is both sophisticated and easy to enjoy."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The newest release of our intriguing blend delights the nose with a charming bouquet of enticing aromas of fresh Meyer lemon, fuzzy peach, ripe honeydew melon and yellow plum, mingled with touches of citrus blossom and white tea. The clean, vibrant palate enters with juicy pomelo, sweet lychee and honeyed tangerine fruits, balanced by vibrant acidity and hints of yellow apple and key lime pie that last through the crisp and refreshing finish."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "With its balanced acidity, this versatile wine pairs well with a number of dishes, from light salads to seafood to, most notably, foods with a hint of spiciness — its subtle sweetness provides balance alongside a touch of heat. Try Chenin Blanc + Viognier with a flavorful Thai curry, a sushi dish, such as a spicy tuna roll, or seared halibut."
+                }
+            ]
+        }
+    ]
+}

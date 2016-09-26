@@ -1,0 +1,64 @@
+{
+    "winery": "Kenwood Six Ridges",
+    "wine": "Pinot Noir",
+    "vintage": "2014",
+    "alcohol": "14.5%",
+    "winemakers": [ "Pat Henderson" ],
+    "appellation": [ "Russian River Valley" ],
+    "composition": [ "97% Pinot Noir", "3% Syrah" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "quote",
+                    "text": "Over the course of my thirty-year career, I’ve really come to appreciate the fact that in this job you never stop learning. The opportunity to work with, encourage and in turn be inspired by the people around me is really special. Having just marked the Kenwood Vineyard’s 46th vintage, I can honestly say that the best winemaking days are ahead of us.",
+                    "authorName": "Pat Henderson",
+                    "authorExtra": "Chief Winemaker"
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "We still believe handcrafted wines are what set Sonoma apart, and we are really focused on making sure our wines capture the very best that Sonoma has to offer. We believe small-lot winemaking is the best way to do it, for which each of our vineyard lots is grown, picked, fermented and aged separately."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The grapes, from our own vineyard an several other small, sustainably-farmed family vineyards in the Russian River Valley, were harvested by hand in the cool morning air."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Delightful aromas of nutmeg, vanilla, and black tea join with ripe red berries and pomegranate flavors. A rich velvety mouthfeel and elegant tannins lead to a lingering finish."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Pinot Noir is one of the most versatile wines to pair with food. The fruity aromas and moderate tannins allow it to pair with a range of foods from roasted meat dishes to wild salmon."
+                }
+            ]
+        }
+    ]
+}

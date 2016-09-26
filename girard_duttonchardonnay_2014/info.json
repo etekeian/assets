@@ -1,0 +1,66 @@
+{
+    "winery": "Girard Dutton Ranch",
+    "wine": "Chardonnay",
+    "vintage": "2014",
+    "alcohol": "14.4%",
+    "winemakers": [ "Glenn Hugo" ],
+    "appellation": [ "Russian River Valley" ],
+    "composition": [ "100% Chardonnay" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Winemaker Glenn Hugo’s artisanal approach to winemaking is based on minimalist intervention in an effort to highlight the best of the fruit each season. This approach is evident in the 2015 Russian River Chardonnay, the fruit for which was grown in a cooler region known for nightly fog layer resulting in a rich, creamy Chardonnay with bright acidity."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Girard’s ‘ambitiously efficient’ state of the art winery, located in the Carneros district, was constructed in 2007 and employs cutting edge energy saving initiatives that result in a carbon neutral footprint. Even with these improvements we still employ traditional winemaking techniques. All of the fruit is hand sorted and our Chardonnay is whole cluster pressed for highest quality and efficiency."
+                },
+                {
+                    "type": "plain",
+                    "text": "All wines are aged in 100% French oak."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Girard has formed decades-long relationships with family growers throughout the Napa Valley. This allows them access to the best fruit from the best sites based on each year’s growing conditions. Sourced from various longtime grape growing families in the Russian River Valley, wines from these sites have garnered international acclaim. Given the region’s nightly fog layer and typically cooler climate, fruit from these sites ripens more slowly, producing classic Russian River Chardonnays: rich and creamy with bright acidity."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The nose opens with Fuji pear, warm spices, toasted nuts and vanilla bean.  The palate showcases the bright acidity Russian River Valley is known for, interlaced with minerality, MacIntosh apple and lime zest."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Baked Brie with caramelized pecans, Sole Almandine or crab tacos with mango coleslaw."
+                }
+            ]
+        }
+    ]
+}

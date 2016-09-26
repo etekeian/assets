@@ -1,0 +1,60 @@
+{
+    "winery": "Kith & Kin",
+    "wine": "Cabernet Sauvignon",
+    "vintage": "2014",
+    "alcohol": "14.9%",
+    "winemakers": [ "Muiris Griffin", "Thomas Rivers Brown" ],
+    "appellation": [ "Rutherford, Napa Valley" ],
+    "composition": [ "82% Cabernet Sauvignon", "13% Petit Verdot", "3% Petite Sirah", "2% Malbec" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The MacDonnell family’s 30 year tradition of growing world class Rutherford Cabernets is joined by the up and coming talent of winemaker Muiris Griffin and consulting winemaker Thomas Rivers Brown."
+                },
+                {
+                    "type": "plain",
+                    "text": "Muiris has worked with some of the world’s best, in both Bordeaux and California, to hone his craft. Thomas brings 20 years’ experience in exceptional winemaking, having crafted multiple 100 point wines.  Together they are making very special wines coming out of Napa Valley."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The MacDonnell family's Round Pond Estate is a Rutherford farm, winery and olive mill specializing in the creation of pure, expressive wines, artisan foods and unforgettable experiences—all from the heart of Napa Valley."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "After a few months in barrel, we selected some of our favorite lots from our Rutherford property to be blended in early spring with some exceptional wines we sourced from neighboring appellations."
+                },
+                {
+                    "type": "plain",
+                    "text": "The Kith & Kin was aged 15 months in once used French Oak barrels to retain the fresh fruit character and seamless texture on the palette."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The intense nose is full of fresh fruit and white flowers. Clean and bright, it highlights notes of crane melon, white peach, and pineapple. The entry is lush and driven by stonefruit with an emphasis on apricot and Asian plum. Followed by lemon meringue and golden kiwi, the mid-palate exhibits richness and more depths of flavor. This crisp wine is beautifully balanced and finishes with mouthwatering acidity and minerality, along with lingering tropical fruit."
+                }
+            ]
+        }
+    ]
+}

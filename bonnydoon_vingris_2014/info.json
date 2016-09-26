@@ -1,0 +1,62 @@
+{
+    "winery": "Bonny Doon",
+    "wine": "Vin Gris de Cigare",
+    "vintage": "2014",
+    "alcohol": "13.0%",
+    "winemakers": [ "Randall Graham" ],
+    "appellation": [ "Central Coast, California" ],
+    "composition": [ "35% Grenache, 18% Mourvèdre", "16% Grenache Blanc", "12.5% Roussanne, 8% Cinsaut", "1.5% Marsanne, 1% Counoise" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Randall has been a pioneer and innovator in the wine space, with a relentless curiosity and desire to discover/create truly original wines in the New World. He eschews vinous special effects, and appreciates wines that speak softly but brightly."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.png",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Bonny Doon Vineyard was founded in 1983 by Randall Graham, and soon established itself as a leader in the development of Rhône varieties in California. The winery prides itself in delivering thoughtful, original wines that are fairly priced."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "This wine is a true Vin Gris, which is to say, made from bespoke grapes (not a byproduct of red wine production), harvested at the appropriate ripeness level for its style, and receiving but minimal skin contact. Pale in color, elegant in flavor."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "There is a lovely chalky/smoky gunpowder tea aspect to the nose, with a suggestion of bergamot, wild strawberry and maybe even a delicate trace of wintergreen. The fragrance is discreet and above all, elegant and draws one to the wine rather than mounts a frontal assault on one’s sensorium. On the palate, the wine has a sleek, salty, savory, mouth-watering aspect and a refreshing acidity. There is a wonderful persistent finish, making this one of the most food-friendly wines conceivable."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Seafood, such as scallops, ceviche, and oysters. Salad, such as Niçoise or tarragon chicken Salad with almonds. Cheeses, such as creamy California chèvre (we suggest Harley Farms, Cypress Grove, or Laura Chenel). Provençal-styled dishes in general suit this pink best."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "winery": "Francis Coppola",
+    "wine": "Sauvignon Blanc",
+    "productName": "Francis Coppola\nDiamond\nSauvignon Blanc",
+    "vintage": "2015",
+    "alcohol": "13.0%",
+    "winemakers": [ "Corey Beck" ],
+    "appellation": [ "California" ],
+    "composition": [ "100% Sauvignon Blanc" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Director of Winemaking and General Manager Corey Beck has more than 20 years of experience in the wine industry. Corey joined Inglenook (formerly Rubicon Estate, Niebaum-Coppola) in 1998 as their assistant winemaker. In 2006, the Coppola family purchased the historic Château Souverain property in Sonoma County, providing a home for the ever-popular Diamond Collection wines, and appointed Corey as director of winemaking and general manager."
+                },
+                {
+                    "type": "quote",
+                    "text": "Harvest is not only about turning grapes into wine, but it’s a reflection of Mother Nature’s work throughout the growing season.",
+                    "authorName": "Corey Beck",
+                    "authorExtra": "Director of Winemaking"
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "quote",
+                    "text": "The quality and authenticity of Diamond Collection is extremely important because we are a family company and our name is on the label. As such, you can trust that we’ll always give you the very best.",
+                    "authorName": "Francis Ford Coppola",
+                    "authorExtra": null
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Diamond Collection wines are classic California expressions that offer fruit-forward, multi-dimensional flavor and immediate drinkability. To create a light, fresh Sauvignon Blanc that displays good balance and vibrant flavors, we blend grapes from three locations: Alexander Valley, Sonoma Valley, and Lake County. Alexander Valley fruit provides a core of citrus and juicy tropical fruit flavors. The high elevation volcanic soils of Lake County contribute pretty floral notes and the Sonoma Valley grapes boast distinct mineral nuances. To capture the varietal’s aromatic qualities and preserve the fruit’s vibrant, youthful character, the wine is fermented and finished in stainless steel."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "We came off an early vintage last year only to break the record and have an even earlier season in 2015. As one might expect, because the season commenced ahead of schedule, it ended quite early as well. Yields were down because of the drought, but having less fruit on the vine helped concentrate the flavors within each berry, giving us extremely fragrant and flavorful Sauvignon Blanc. The grapes are fermented cold to retain all of the beautiful flavors and keep the texture crisp and bright. This year’s wine is racy with vibrant intensity and good body. By stirring the lees during fermentation we achieved a wine that has weight, texture, and an elegant quality enhanced by the natural acidity and crispness."
+                }
+            ]
+        }
+    ]
+}

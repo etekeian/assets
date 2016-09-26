@@ -1,0 +1,61 @@
+{
+    "winery": "Schug",
+    "wine": "Carneros Pinot Noir",
+    "vintage": "2013",
+    "alcohol": "13.8%",
+    "winemakers": [ "Michael Cox" ],
+    "vineyards": [ "52% Lund, 22% Schug Estate", "14% Ricci, 9% Sangiacomo", "3% Brown" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Mike likes to work closely with growers and prefers small production vineyards that contribute unique qualities to his blends. The Carneros grapes offer unrivaled opportunities due to their unique diversity and complex, well-developed flavor characteristics."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "On the Schug Estate, summertime winds come rushing through what is known as the Petaluma Gap, a break between two mountains which creates a kind of wind-tunnel across the vineyards. The wind stress causes the skin of the grapes to thicken, particularly the higher Pinot Noir plantings, a characteristic that adds pepper and spice nuances to the wine."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "This classic Carneros region Pinot Noir offers a wide range of flavors and aromas, in the tradition of the finest red Burgundies of France. “Clonal diversity” is achieved by carefully blending several vineyard lots, each retaining its own unique clonal signature in the blend."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "A complex wine with a rich bouquet of cherries, berries and hints of spicy new oak. It has flavors reminiscent of black cherry, currant and strawberry, followed by a rich, spicy texture and a long silky finish."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "This wine pairs nicely with lamb, duck, even grilled fish."
+                }
+            ]
+        }
+    ]
+}

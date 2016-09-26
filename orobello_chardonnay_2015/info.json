@@ -1,0 +1,62 @@
+{
+    "winery": "Oro Bello",
+    "wine": "Chardonnay",
+    "vintage": "2015",
+    "alcohol": "13.0%",
+    "winemakers": [ "Alexandre Remy" ],
+    "appellation": [ "80% Monterey", "20% Napa" ],
+    "composition": [ "100% Chardonnay" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Hailing from Rennes, France, Remy holds a master’s degree in food science from the University of Montpellier. His desire to make wine took him to Marlborough, New Zealand, France’s Northern Rhone region, Victoria, Australia and California’s Napa Valley."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Atlas Wine Company was founded in 2012 as a new-generation farming company with more than 100 years of combined expertise developing and farming world-class vineyards and providing high-quality grapes to more than 250 wineries."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "After reaching optimal ripeness, the Chardonnay clusters were harvested and gently pressed to preserve their aromatics. The juice was fermented 90% in barrels to enhance richness."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Elegance, finesse and power are three words that come to mind when tasting Oro Bello. The subtle nuances evoke a feeling of warmth. Fruit aromas range from pineapple to kiwi with Meyer lemon notes. The mouthfeel is smooth yet fresh and balanced with well-integrated toasted oak."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Oro Bello tastes best when shared with friends. Gather some of your loved ones for a feast of homemade guacamole with fresh salsa and grilled garlic/lime barbecued prawns. This wine pairs nicely with arugula salad, scallops, asparagus and risotto. For dessert, lemon meringue pie makes a great compliment for guests who love sweets almost as much as they love Oro Bello Chardonnay."
+                }
+            ]
+        }
+    ]
+}

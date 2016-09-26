@@ -1,0 +1,62 @@
+{
+    "winery": "Ancient Oak Cellars",
+    "wine": "Pinot Noir",
+    "vintage": "2014",
+    "alcohol": "14.2%",
+    "winemakers": [ "Greg La Follette" ],
+    "appellation": [ "Sonoma County, CA" ],
+    "composition": [ "100% Pinot Noir" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "One of California’s most accomplished winemakers, Greg La Follette has delved far more deeply than most into the science behind the art of winemaking. He also fosters a fervent fascination with old world winemaking techniques. Both have fueled his intense interest in the texture and mouth feel of wine, and, not surprisingly, leave an indelible mark on the wines he creates."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "For more than one hundred years, our namesake – the Ancient Oak – has presided over the Siebert Ranch, witnessing many seasons and generations of vines. We now live here and tend the Pinot Noir vines we helped Grandpa Henry plant."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "We strive to make a balanced wine that pairs well with food, that will continue to surprise and interest you with a long layered finish, and that reflects the vineyards where the grapes were grown."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "This is a classic Russian River Valley Pinot Noir: balanced and graceful. It has bright, focused fruit with notes of strawberry, then cola and spice, a rich, silky mouthfeel, and a clean finish."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "You can truly pair this Pinot with anything on your plate!"
+                }
+            ]
+        }
+    ]
+}

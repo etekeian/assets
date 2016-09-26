@@ -1,0 +1,71 @@
+{
+    "winery": "Cosentino\u202F—\u202FTHE ROSÉ",
+    "wine": "Rosé",
+    "productName": "Cosentino\nTHE ROSÉ\nRosé",
+    "vintage": "2015",
+    "alcohol": "12.9%",
+    "winemakers": [ "Marty Peterson" ],
+    "appellation": [ "Lodi" ],
+    "composition": [ "50% Pinot Noir", "25% Syrah", "25% Zinfandel" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Winemaker Marty Peterson comes from a family with a rich farming history. In 1904, his great-grandfather, Carl A. Peterson, made his way by ferry to Lodi, an agricultural community at the mouth of the Sacramento River Delta, 60 miles east of San Francisco, where he founded the family ranch."
+                },
+                {
+                    "type": "plain",
+                    "text": "As the winemaker for Cosentino, Marty draws on his deep roots in the Lodi region, as well as his knowledge of the Napa and Sonoma appellations, to create uniquely expressive wines of balance and complexity."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Cosentino Winery was founded in 1980 and it’s the first stop to Napa Wine Country, located on the historic Saint Helena Highway in Napa, California and neighbor to Mustard’s Grill. Cosentino Winery is America’s first to designate and license Meritage wine, a Bordeaux inspired blend."
+                },
+                {
+                    "type": "plain",
+                    "text": "Our tasting room offers unique tasting experiences in THE Barrel Room or on THE Patio, an inviting outdoor tasting space added in 2015 that features fire and water elements."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Cosentino Winery has long championed the Lodi Appellation and proudly produces THE Wines series from vineyards in Lodi – an AVA renowned for its high-quality Zinfandel production, one of the leading regions in sustainable viticulture and Wine Enthusiast’s “Wine Region of the Year” in 2015."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "THE Rosé is as fresh as the first blush of a new morning. Subtle notes of rose petal open up to strawberry on the nose with a splash of cranberry and pink grapefruit on the palate."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "It’s the perfect accompaniment to your brunch favorites like syrupy French toast or a veggie filled quiche."
+                }
+            ]
+        }
+    ]
+}

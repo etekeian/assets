@@ -1,0 +1,68 @@
+{
+    "winery": "Bonny Doon",
+    "wine": "A Proper Claret",
+    "productName": "Bonny Doon\nA Proper Claret\nRed Blend",
+    "vintage": "2014",
+    "alcohol": "13.2%",
+    "winemakers": [ "Randall Graham" ],
+    "appellation": [ "California" ],
+    "composition": [ "36% Cabernet Sauvignon", "22% Petit Verdot, 22% Tannat", "9% Syrah, 7% Merlot", "3% Cabernet Franc, 1% Petite Sirah" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Randall has been a pioneer and innovator in the wine space, with a relentless curiosity and desire to discover/create truly original wines in the New World. He eschews vinous special effects, and appreciates wines that speak softly but brightly."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.png",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Bonny Doon Vineyard was founded in 1983 by Randall Graham, and soon established itself as a leader in the development of Rhône varieties in California. The winery prides itself in delivering thoughtful, original wines that are fairly priced."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "numbered-list",
+                    "headerText": "Some cautionary words:",
+                    "items": [
+                        "Bonny Doon Vineyard is, as we all know or should know, a strictly cabernet-free zone, at least it has been for the last twenty-nine years.",
+                        "Randall Grahm, owner and winemaker, has expressed indifference, occasionally bordering on amused disdain, for this popular grape variety.",
+                        "We are not really at liberty to say how Bonny Doon Vineyard has come to be entrusted with the distribution of a wine made from such improbably alien grape varieties, but suffice to say that the deal was doon grudgingly and harumphingly."
+                    ]
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "So, with these caveats, the sentiment at Bonny Doon Vineyard is that if we ever were to drink a cabernet-based blend, this would be one that would serve quite well. It is lean, neither overly alcoholic (weighing in at 13.2%) nor overly extracted, nor overly oaked; it is precisely what one would imagine A Proper Claret to be."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Proper (British) mutton, proper leg of lamb, (ideally served with proper Yorkshire pudding)."
+                }
+            ]
+        }
+    ]
+}

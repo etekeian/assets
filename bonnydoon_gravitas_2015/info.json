@@ -1,0 +1,53 @@
+{
+    "winery": "Bonny Doon",
+    "wine": "Gravitas",
+    "productName": "Bonny Doon\nGravitas\nWhite Blend",
+    "vintage": "2015",
+    "alcohol": "13.4%",
+    "winemakers": [ "Randall Graham" ],
+    "appellation": [ "California" ],
+    "composition": [ "64% Semillon", "36% Sauvignon Blanc" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Randall has been a pioneer and innovator in the wine space, with a relentless curiosity and desire to discover/create truly original wines in the New World. He eschews vinous special effects, and appreciates wines that speak softly but brightly."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.png",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Bonny Doon Vineyard was founded in 1983 by Randall Graham, and soon established itself as a leader in the development of Rhône varieties in California. The winery prides itself in delivering thoughtful, original wines that are fairly priced."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Despite being slightly “cheesed off” by the general dearth of New World white wines exhibiting Proper Gravitas. A wine of Gravitas is one that is obviously not fruity, nor overly oaky, nor as buttery as say, a pukka Stilton."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "A wine of Gravitas demonstrates its stones, as it were, a pleasant quality of minerality, with a finish as persistent as a British bulldog."
+                }
+            ]
+        }
+    ]
+}

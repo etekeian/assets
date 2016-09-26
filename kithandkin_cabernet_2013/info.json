@@ -1,0 +1,64 @@
+{
+    "winery": "Kith & Kin",
+    "wine": "Cabernet Sauvignon",
+    "vintage": "2013",
+    "alcohol": "14.8%",
+    "winemakers": [ "Muiris Griffin", "Thomas Rivers Brown" ],
+    "appellation": [ "Napa Valley" ],
+    "composition": [ "83% Cabernet Sauvignon", "12% Petit Verdot", "5% Petite Sirah" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The MacDonnell family’s 30 year tradition of growing world class Rutherford Cabernets is joined by the up and coming talent of winemaker Muiris Griffin and consulting winemaker Thomas Rivers Brown."
+                },
+                {
+                    "type": "plain",
+                    "text": "Muiris has worked with some of the world’s best, in both Bordeaux and California, to hone his craft. Thomas brings 20 years’ experience in exceptional winemaking, having crafted multiple 100 point wines.  Together they are making very special wines coming out of Napa Valley."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The MacDonnell family's Round Pond Estate is a Rutherford farm, winery and olive mill specializing in the creation of pure, expressive wines, artisan foods and unforgettable experiences—all from the heart of Napa Valley."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "After a few months in barrel, we selected some of our favorite lots from our Rutherford property to be blended in early spring with some exceptional wines we sourced from neighboring appellations."
+                },
+                {
+                    "type": "plain",
+                    "text": "The Kith & Kin was aged 15 months in once used French Oak barrels to retain the fresh fruit character and seamless texture on the palette."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "This 2013 Kith & Kin is our boldest “Napa” Cabernet to date. Beautifully balanced, this Cabernet Sauvignon makes its intentions known with aromas of fresh red berries, complemented by subtle leather, floral notes, and sweet French oak."
+                },
+                {
+                    "type": "plain",
+                    "text": "The sweet supple entry teases the mouth with bing cherry, plum, and rhubarb. Adding complexity, the palate rounds out into a creamy cherry pie a la mode with notes of violets, thyme, and nutmeg. A lingering full finish pleases the end palate, balanced by fresh acidity and earthy notes with caramel and cocoa."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "winery": "Schug",
+    "wine": "Carneros Chardonnay",
+    "vintage": "2013",
+    "alcohol": "14.1%",
+    "winemakers": [ "Michael Cox" ],
+    "appellation": [ "91% Carneros", "9% Sonoma Valley" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Mike is of the “new school” of winemakers — superbly trained in a technical sense, but also involved in every step of the winemaking process."
+                },
+                {
+                    "type": "plain",
+                    "text": "Like many good winemakers, he realizes that the quality of the grapes on the vine is the key to making good wine — ideas of his own that go beyond the laboratory measurements he learned so well at UC Davis."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Schug Carneros Estate Winery is situated on a 50-acre site in the Carneros Appellation, south-west of the town of Sonoma. Chardonnay vineyards surround the winery, while other grapes are bought in from highly respected and experienced growers."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "This classic Carneros Chardonnay was grown on our own cool-climate Estate vineyard, as well as the Ricci, Cornerstone, Wildcat, Sangiacomo, Leveroni and Iund Vineyards."
+                },
+                {
+                    "type": "plain",
+                    "text": "The barrel regiment included fermentation and aging on the lees (“sur-lie”) in small French oak barrels, with minimal new oak introduced. Malo-lactic fermentation was not induced, allowing the wine to retain its natural acidity and varietal focus."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "A wine that is both rich and powerful, while refreshing and elegant on the finish. It has a ripe, spicy tropical bouquet with flavors that suggest citrus, pear and spiced apples. Well-balanced acidity gives it a crisp, clean finish, making it an excellent wine with food."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Try it with cream soups, rich seafood, fowl, veal and pasta dishes."
+                }
+            ]
+        }
+    ]
+}

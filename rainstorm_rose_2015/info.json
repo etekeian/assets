@@ -1,0 +1,53 @@
+{
+    "winery": "Rainstorm Silver Linings",
+    "wine": "Pinot Noir Rosé",
+    "productName": "Rainstorm\nSilver Linings\nPinot Noir Rosé",
+    "vintage": "2015",
+    "alcohol": "13.0%",
+    "winemakers": [ "Nicolas Quille" ],
+    "appellation": [ "Oregon" ],
+    "composition": [ "100% Pinot Noir" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Nicolas was born in Lyon, France, to a family with three generations in the wine business. Nicolas holds a Master degree in Winemaking from the University of Dijon, Burgundy and a Masters in Sparkling Wine Business from the University of Reims, Champagne. He has been a winemaker for longer than 20 years. Nicolas is currently the Vice President of the International Riesling Foundation, a board member of the Washington winery sustainability group: Winewise, a member of the Washington State export committee and a hopeful student of the Master of Wine program."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "We strive to produce healthy and honest wines, to utilize local supplies from grape to bottle, to reduce our input and minimize our waste, and to provide a fair work environment for all our employees."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Our grapes come from Oregon's Willamette and Umpqua Valleys. With its cool, mild climate, the Willamette Valley produces Pinot Noirs with light raspberry notes and fresh acidity. The hotter and drier climate in the Umpqua Valley adds ripe cherry aromatics and body to the wine. This is a light dry rosé made using the qualitative direct press method."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Our Pinot Noir Rosé portrays aromas of strawberry, rose petals and pomegranate seeds. It is completely dry with refreshing acidity."
+                }
+            ]
+        }
+    ]
+}

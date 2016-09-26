@@ -1,0 +1,63 @@
+{
+    "winery": "Bonny Doon",
+    "wine": "Clos de Gilroy",
+    "productName": "Bonny Doon\nClos de Gilroy\nRed Blend",
+    "vintage": "2014",
+    "alcohol": "14.5%",
+    "winemakers": [ "Randall Graham" ],
+    "appellation": [ "Monterey County" ],
+    "composition": [ "89% Grenache", "9% Mourvèdre", "2% Syrah" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Randall has been a pioneer and innovator in the wine space, with a relentless curiosity and desire to discover/create truly original wines in the New World. He eschews vinous special effects, and appreciates wines that speak softly but brightly."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.png",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Bonny Doon Vineyard was founded in 1983 by Randall Graham, and soon established itself as a leader in the development of Rhône varieties in California. The winery prides itself in delivering thoughtful, original wines that are fairly priced."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The Wine Formerly Known as Clos de Gilroy (TWFKaCdG) pays homage to the quaint, rustic town of Gilroy, the spiritual locus of all matters alliaceous. However, note well, the fruit for this wine does not, despite its name, derive from Gilroy (Clos, but no Cigare), but instead primarily from the Alta Loma vineyard in Greenfield (a particularly cool site for Grenache), and some truly ancient Mourvèdre vines in the sleepy Sacramento Delta town of Oakley, CA."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "We aim for weapons-grade fruit from our sundry Grenache vineyards, with the intent of producing killer Cigare, but sometimes we end up Clos (but no Cigare). The Alta Loma Vyd. has shown over and again that it produces incredibly pretty Grenache — spicy, pepper and oral. Beautiful opalescent ruby color with an exceptional spicebox nose: black pepper with hints of clove/gingerbread, bing cherry, red currant and Santa Rosa plum. Maybe slightly more texture than the very soft, plush 2013 vintage."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "This wine pairs exceptionally well with a range of dishes, not the least being peppered ahi tuna steak. Best served with a slight chill, especially as the weather warms up."
+                }
+            ]
+        }
+    ]
+}

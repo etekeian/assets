@@ -1,0 +1,63 @@
+{
+    "winery": "B.R. Cohn",
+    "wine": "Silver Label Pinot Noir",
+    "productName": "B.R. Cohn\nSilver Label\nPinot Noir",
+    "vintage": "2014",
+    "alcohol": "14.8%",
+    "winemakers": [ "Marco DiGiulio" ],
+    "appellation": [ "North Coast" ],
+    "composition": [ "100% Pinot Noir" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Marco DiGiulio graduated with a degree in Fermentation Science from the University of California at Davis in 1985. Most of Marco’s wines score consistently in the 90’s among top critics, and in November 2007, Wine Spectator named Marco DiGiulio “one of Napa’s leading wine consultants.” In 2016, Marco’s wealth of experience and love of winemaking enables him to craft the finest wines from the California mountains and valleys that provide his inspiration."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "In 1970 winery founder Bruce Cohn met and became the manager of the Doobie Brothers. Bruce brought his two life passions together in 1987 by inaugurating the B.R. Cohn Charity Fall Music Festival."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Sourced from vineyards throughout the cool northern coastal region of California, an ideal growing region for Pinot Noir."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The B.R. Cohn Pinot Noir is a medium-bodied, rich, smooth wine with notes of black cherry, raspberry and currant."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Drink this Pinot Noir on its own, or enjoy it with a wide range of dishes, including grilled salmon, veal and pastas."
+                }
+            ]
+        }
+    ]
+}

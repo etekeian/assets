@@ -1,0 +1,52 @@
+{
+    "winery": "Unparalleled",
+    "wine": "Sauvignon Blanc",
+    "vintage": "2015",
+    "alcohol": "12.5%",
+    "winemakers": [ "Nicolas Quille" ],
+    "appellation": [ "Marlborough, New Zealand" ],
+    "composition": [ "100% Sauvignon Blanc" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Nicolas was born in Lyon, France, to a family with three generations in the wine business. Nicolas holds a Master degree in Winemaking from the University of Dijon, Burgundy and a Masters in Sparkling Wine Business from the University of Reims, Champagne. He has been a winemaker for longer than 20 years. Nicolas is currently a hopeful student of the Master of Wine program."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Our Sauvignon Blanc is sourced from a family winery with long roots in the Awatere Valley of Marlborough known for producing wines with wonderful precision and high fruit intensity."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Our Sauvignon Blanc grapes come from an estate vineyard in the Awatere Valley (“with fast flowing water” in Maori) in the Marlborough region. The alluvial and rocky soils are ideal for producing Sauvignon Blanc with wonderful minerality and typicity that Marlborough is known for."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Our wine portrays aromas of gooseberries and passion fruit with refreshing acidity."
+                }
+            ]
+        }
+    ]
+}

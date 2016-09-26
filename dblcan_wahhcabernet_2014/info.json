@@ -1,0 +1,63 @@
+{
+    "winery": "Horse Heaven Hills",
+    "wine": "Cabernet Sauvignon",
+    "productName": "Double Canyon\nHorse Heaven Hills\nCabernet Sauvignon",
+    "vintage": "2014",
+    "alcohol": "14.2%",
+    "winemakers": [ "Will Beightol" ],
+    "appellation": [ "Washington State" ],
+    "composition": [ "78% Cabernet Sauvignon", "12% Syrah, 5% Petit Verdot", "3% Merlot, 2% Malbec" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Will Beightol has resided directly across the street from Double Canyon since childhood, so he understands the climate and eccentricities of the land better than anyone. As a native with in-depth knowledge of the land, Will was hired to manage Double Canyon estate in 2007. He single-handedly planted the vines using a high-density technique that produces less fruit per plant, a critical step in cultivating fruit with expressive, complex character. As General Manager, Will is responsible for day-to-day operations at the estate, but it’s his devotion to the vines you’ll see reflected in the exceptionally high quality fruit he produces each vintage."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Horse Heaven Hills—this remote corner of the world is the birthplace of many prestigious, award-winning wines. Since the AVA was established in 2005, it has received increasing renown as a distinguished Cabernet Sauvignon-producing region. Double Canyon, named for two ravines that run through the property, produces estate-grown wines that express the individuality of the vineyard in this distinctive windswept, desert appellation. Our extraordinary parcel of land enables us to produce wines of exceptional quality, vintage after vintage."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Our 2014 Horse Heaven Hills Cabernet Sauvignon is accented by Syrah and touches of Petit Verdot, Merlot and Malbec. The vast majority of the fruit comes from our own Double Canyon Vineyard, and the remaining elements of the blend are sourced from the nearby Phinny Hill, Champoux and Destiny Ridge Vineyards."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "This Cabernet embodies an enticing array of ripe red and black plum, intermixed with notes of fresh red cherry. Characteristic of the appellation and 2014 vintage, the nose offers spiced potpourri with a touch of raspberry preserves. The addition of Syrah leads to a full and rich texture on the mid-palate, further accented by bright acidity from the Petit Verdot, sweet red fruit from the Merlot and luscious blackberry notes supplied by the Malbec. The soft and supple mouthfeel is supported by the complexity of sweet oak tannins and fresh fruit character, nishing with the juicy acidity that is characteristic of Horse Heaven Hills."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Steak or lamb, pork, poultry, pizza or pasta"
+                }
+            ]
+        }
+    ]
+}

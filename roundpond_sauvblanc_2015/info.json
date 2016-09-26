@@ -1,0 +1,66 @@
+{
+    "winery": "Round Pond",
+    "wine": "Sauvignon Blanc",
+    "vintage": "2015",
+    "alcohol": "14.2%",
+    "winemakers": [ "Muiris Griffin", "Thomas Rivers Brown" ],
+    "appellation": [ "Rutherford, Napa Valley" ],
+    "composition": [ "100% Sauvignon Blanc" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The MacDonnell family’s 30 year tradition of growing world class Rutherford Cabernets is joined by the up and coming talent of winemaker Muiris Griffin and consulting winemaker Thomas Rivers Brown."
+                },
+                {
+                    "type": "plain",
+                    "text": "Muiris has worked with some of the world’s best, in both Bordeaux and California, to hone his craft. Thomas brings 20 years’ experience in exceptional winemaking, having crafted multiple 100 point wines.  Together they are making very special wines coming out of Napa Valley."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The MacDonnell family's Round Pond Estate is a Rutherford farm, winery and olive mill specializing in the creation of pure, expressive wines, artisan foods and unforgettable experiences—all from the heart of Napa Valley."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "This wine is focused on purity of fruit; it is a flip book of the varietal as it ripens on the Estate. We capture different snapshots of the grape’s character by making three picking passes during harvest. This provides the wine with multiple layers of fruit starting with zesty citrus, moving to stone fruits, progressing to melons, and finishing with a hint of exotic tropical fruits. Each of these aromatic profiles represents the different ripeness levels at which the clusters were picked."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The intense nose is full of fresh fruit and white flowers. Clean and bright, it highlights notes of crane melon, white peach, and pineapple. The entry is lush and driven by stonefruit with an emphasis on apricot and Asian plum. Followed by lemon meringue and golden kiwi, the mid-palate exhibits richness and more depths of flavor. This crisp wine is beautifully balanced and finishes with mouthwatering acidity and minerality, along with lingering tropical fruit."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Light pastas, fresh greens and cold soups."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "winery": "Bonny Doon",
+    "wine": "Vin Gris de Cigare",
+    "vintage": "2015",
+    "alcohol": "13.5%",
+    "winemakers": [ "Randall Graham" ],
+    "appellation": [ "Central Coast, California" ],
+    "composition": [ "44% Grenache, 20% Grenache Blanc", "12% Carignane, 11% Mourvèdre", "7% Cinsaut, 6% Roussanne" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Randall has been a pioneer and innovator in the wine space, with a relentless curiosity and desire to discover/create truly original wines in the New World. He eschews vinous special effects, and appreciates wines that speak softly but brightly."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.png",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Bonny Doon Vineyard was founded in 1983 by Randall Graham, and soon established itself as a leader in the development of Rhône varieties in California. The winery prides itself in delivering thoughtful, original wines that are fairly priced."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "This wine is a true Vin Gris, which is to say, made from bespoke grapes (not a byproduct of red wine production), harvested at the appropriate ripeness level for its style, and receiving but minimal skin contact. Pale in color, elegant in flavor."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "As a proper vin gris, the wine sees but a minimum of skin contact; its perfume thus is subtle, haunting, not vulgar or tawdry, like some of the louche rosés de la nuit. This wine is all about elegance and restraint. Rosehips, fraises de bois, citrus rind, with a wonderfully austere stony finish."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Just begs for oysters or stone crab."
+                }
+            ]
+        }
+    ]
+}

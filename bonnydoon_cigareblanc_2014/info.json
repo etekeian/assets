@@ -1,0 +1,63 @@
+{
+    "winery": "Bonny Doon",
+    "wine": "Le Cigare Blanc",
+    "productName": "Bonny Doon\nLe Cigare Blanc\nWhite Blend",
+    "vintage": "2014",
+    "alcohol": "14.5%",
+    "winemakers": [ "Randall Graham" ],
+    "appellation": [ "Arroyo Seco" ],
+    "composition": [ "55% Roussanne", "26% Grenache Blanc", "19% Picpoul Blanc" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Randall has been a pioneer and innovator in the wine space, with a relentless curiosity and desire to discover/create truly original wines in the New World. He eschews vinous special effects, and appreciates wines that speak softly but brightly."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.png",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Bonny Doon Vineyard was founded in 1983 by Randall Graham, and soon established itself as a leader in the development of Rhône varieties in California. The winery prides itself in delivering thoughtful, original wines that are fairly priced."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Since 2003, we’ve produced this blend of grenache blanc, roussanne and picpoul, derived from a single vineyard source, the Beeswax Vineyard in the Arroyo Seco region of Monterey County. Farmed organically, surrounded by wilderness, and shielded from the cool Pacific Coast winds by the Santa Lucia Mountains, Beeswax Vineyard grows complex, concentrated and mineral intensive grapes from deeply rooted vines. An intensely flavored wine at a relatively modest degree of alcohol; the ’14 Cigare Blanc underwent a complete malolactic fermentation."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "With a color as pale as drying grass in mid-summer, the ’14 Cigare Blanc immediately takes me to the heady fragrance of the Beeswax Vyd. itself — pears and other pome fruit, citronella, muskmelon, fennel, along with a white flower that I can’t quite place. But, the very odd thing is that all of the grapes grown at this vineyard have the fragrance of beeswax itself. On the palate, the wine is rich and elegant at the same time — great persistence on the palate but with a refreshing acidity and a slightly chalky mineral aspect."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "This is a wine that you definitely want to serve with a rich beurre blanc, though a lobster risotto would also serve quite nicely."
+                }
+            ]
+        }
+    ]
+}

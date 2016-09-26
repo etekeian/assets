@@ -1,0 +1,62 @@
+{
+    "winery": "Pacific Rim \"J\"",
+    "wine": "Riesling",
+    "vintage": "2015",
+    "alcohol": "11.5%",
+    "winemakers": [ "Nicolas Quille" ],
+    "appellation": [ "Columbia Valley, Washington" ],
+    "composition": [ "100% Riesling" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Nicolas was born in Lyon, France, to a family with three generations in the wine business. Nicolas holds a Master degree in Winemaking from the University of Dijon, Burgundy and a Masters in Sparkling Wine Business from the University of Reims, Champagne. He has been a winemaker for longer than 20 years. Nicolas is currently the Vice President of the International Riesling Foundation, a board member of the Washington winery sustainability group: Winewise, a member of the Washington State export committee and a hopeful student of the Master of Wine program."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Pacific Rim is committed to being a sustainable winery. We are a founding member of Winewise, the Washington State sustainability group. We strive to produce healthy and honest wines, to utilize local supplies from grape to bottle, to reduce our input and minimize our waste, and to provide a fair work environment for all our employees."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "All our vineyards are located within a few miles from our winery. We prefer to use sustainably farmed vineyards with old vines in the cooler regions of the Yakima Valley and the Horse Heaven Hills. Our Wallula Vineyard is often pictured on books and magazine as one of the most stunning locations in the Pacific Northwest."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "As wine lovers crave alternatives to heavy and oaky white wines, Riesling is experiencing a true revival (like a phoenix rising from the ashes; the inspiration for our label artwork). Portraying bright crispness, subtle sweetness and aromas of jasmine, pear and apple, the wine exemplifies the harmony of Riesling."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The sweetness plays wonderfully with fiery fare (from Thai to Mexican), while the natural acidity stands up to richer foods (from French to German)."
+                }
+            ]
+        }
+    ]
+}

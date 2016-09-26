@@ -1,0 +1,62 @@
+{
+    "winery": "Clos Pegase",
+    "wine": "Mistukos Merlot",
+    "vintage": "2014",
+    "alcohol": "14.8%",
+    "winemakers": [ "Robin Akhurst" ],
+    "appellation": [ "Carneros, Napa Valley" ],
+    "composition": [ "100% Merlot" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "For Winemaker, Robin Akhurst - a native of Scotland, the road to Napa took him around the globe, through eight consecutive and exhausting harvests, from Marlborough, New Zealand, Barossa Valley, Australia and Puligny-Montrachet, France. Robin’s winemaking beliefs are simple: to produce a wine that has balance, purity and an expressive character. He strives to make wines that are to be enjoyed among friends and on the dinner table with family."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Internationally-acclaimed architecture and a commitment to estate-grown Napa Valley wines make Clos Pegase one of the most distinctive wineries in the world. With nearly 300 acres of estate vineyards, a Michael Graves-designed winery, a state-of-the-art winemaking facility and a newly-planted Heritage Garden landscape, Clos Pegase is a celebration of Napa Valley wine and a landmark destination."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Mitsuko's Vineyard, named for the founder’s late wife, covers 365 rolling acres of the Los Carneros appellation within the Napa Valley. A broad range of soil types, elevations, slopes, and microclimates make up this distinct property. After examining the soil of the vineyard before planting, it was discovered that a section of the land was Haire clay-loam similar to the soils of Bordeaux’s Right Bank, a region famous for making some of the best Merlot in the world. This section of the vineyard was planted to a unique blend of Merlot clones well-suited to this climate."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Exotic and complex this Merlot possesses aromas of blackberry liqueur, cherry pie and violets enhanced by fresh pipe tobacco and spices. Broad fruit flavors are balanced by a round structure and lengthy finish."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Greek style lamb chops with tangy yogurt sauce or grilled pistachio crusted tuna steak."
+                }
+            ]
+        }
+    ]
+}

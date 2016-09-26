@@ -1,0 +1,63 @@
+{
+    "winery": "B.R. Cohn",
+    "wine": "Cabernet Sauvignon",
+    "productName": "B.R. Cohn\nSilver Label\nCabernet Sauvignon",
+    "vintage": "2014",
+    "alcohol": "14.3%",
+    "winemakers": [ "Robert Akhurst" ],
+    "appellation": [ "North Coast" ],
+    "composition": [ "88% Cabernet Sauvignon", "12% Merlot" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Robin Akhurst has spent over a decade crafting complex wines of character for some of the world’s most notable estates. Robin began his career as a sommelier in London, then moved to New Zealand where he earned a graduate degree in Viticulture and Enology."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "In 1970 winery founder Bruce Cohn met and became the manager of the Doobie Brothers. Bruce brought his two life passions together in 1987 by inaugurating the B.R. Cohn Charity Fall Music Festival."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The B.R. Cohn Silver Label Cabernet Sauvignon is a blend of select hillside vineyards and our own Olive Hill Estate Vineyard. We select only the best low-yield vineyard blocks to produce this rich concentrated Cabernet."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "A bold, rich Cabernet with aromas of cassis, black cherry, mint and violet combine with a bouquet of pungent oak, anise, and warm vanilla. On the palate, lush cherry, caramel, and clove are wrapped in smooth tannin and a long juicy finish."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Excellent with corned beef and cabbage, bacon wrapped fillet mignon, or old fashion spaghetti and meat balls in marinara. Also serve with strong cheese and flat bread on your next vineyard outing or pair with your favorite dark chocolate."
+                }
+            ]
+        }
+    ]
+}

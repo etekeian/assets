@@ -1,0 +1,51 @@
+{
+    "winery": "Cartlidge & Browne",
+    "wine": "Cabernet Sauvignon",
+    "vintage": "2013",
+    "alcohol": "13.5%",
+    "winemakers": [ "Russ Fish" ],
+    "appellation": [ "North Coast" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Tony Cartlidge, co-founder of Cartlidge & Browne, is a dreamer with a love of wine and a fondness for taking the road less traveled.  After several attempts at different occupations and a few fortune hunts, he fell upon an idea to become a vintner. After hopping in his Rambler and making his way to Napa, where he talked his way into a winery tour guide job, there was no stopping him."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Tony Cartlidge and Glen Browne scoured the appellations of the North Coast, from Napa to Sonoma to Mendocino to Lake, to source grapes farmed with care and concern for the land. They brought the harvest back to a simple garage winery to handcraft wines they knew people would enjoy as much as they did. Cartlidge & Browne wines soon began to garner raves from critics and wine lovers alike."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Like a classic muscle car, Cabernet Sauvignon’s sleek lines belie its power and endurance. Sure this bold dark beauty is racy. But though it is quick to accelerate, it downshifts into a smooth finish. True high performance."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Rosemary-crusted lamb shank or braised red cabbage with grated aged Gouda."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "winery": "Azur",
+    "wine": "Rosé",
+    "vintage": "2015",
+    "alcohol": "13.5%",
+    "winemakers": [ "Julien Fayard" ],
+    "appellation": [ "60% Napa", "40% Sierra Foothills" ],
+    "composition": [ "100% Syrah" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Julien Fayard gained his knowledge and defined his core winemaking style from working at grand Chateaux in France such as Lafite Rothschild and Smith Haut Lafitte. In Napa Valley, he’s worked alongside renowned winemaker Philippe Melka. He has come to be a Napa Valley veteran after many years of working with some of the most highly acclaimed and sought after wines from Napa."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The wines we produce reflect our dedication to haute quality with layers of details. Our goal is to craft the most beautiful provençal inspired wines in California. We have been inspired by each other's cultures, French and American, and bring this to you to enjoy a touch of Provence!"
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Our focus is to produce the most exquisite rosé in California. Therefore, we do not practice the “saignée” method, which is a French word that means “to bleed”. A small portion of juice is bled away from the skins to make rosé and the remaining portion will produce another red wine with that specific grape varietal. Saignée gives rosé more color yet also more tannins, which is not ideal for such a delicate and refreshing wine."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "California sunshine and Provence delights are captured in this vintage of rosé. Light rose color with copper hues; the nose opens to a delicate bouquet of white flowers with seductive peach accents. Fresh and focused, the sophisticated palate offers elegant layers of raspberry, strawberry and watermelon. An alluring mineral finish completes this purely harmonious wine."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "All of our wines are produced with food in mind. Naturally, Julien’s culture and winemaking philosophy views food and wine as a compliment to each other. There is not one without the other. Julien handcrafts wines that are balanced and not overpowering to compliment what’s on your plate with what’s in your glass. Gastronomical wines that can be enjoyed with or without food."
+                }
+            ]
+        }
+    ]
+}

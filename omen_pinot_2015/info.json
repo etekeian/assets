@@ -1,0 +1,69 @@
+{
+    "winery": "Omen",
+    "wine": "Pinot Noir",
+    "vintage": "2015",
+    "alcohol": "13.8%",
+    "price": null,
+    "winemakers": [ "Alexander Remy" ],
+    "appellation": [ "Rogue Valley" ],
+    "vineyards": null,
+    "composition": [ "100% Pinot Noir" ],
+    "acidity": null,
+    "barrelRegiment": null,
+    "harvested": null,
+    "production": null,
+    "residualSugar": null,
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Hailing from Rennes, France, Remy holds a master’s degree in food science from the University of Montpellier. His desire to make wine took him to Marlborough, New Zealand, France’s Northern Rhone region, Victoria, Australia and California’s Napa Valley."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Atlas Wine Company was founded in 2012 and is owned by Atlas Vineyard Management, Inc., a new-generation farming company with more than 100 years of combined expertise developing and farming world-class vineyards and providing high-quality grapes to more than 250 wineries."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Omen Pinot Noir is a silky smooth wine bursting with red fruit and vanilla. It's the perfect wine to take with you when you're hiking or to whip out when you're playing \"Cards Against Humanity\". Disclaimer: Omen does not take any responsibility for questionable card choices during the game."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Fresh Red Fruit"
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Mushroom Pizza"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "winery": "Girard",
+    "wine": "Artistry",
+    "vintage": "2013",
+    "alcohol": "14.9%",
+    "winemakers": [ "Glenn Hugo" ],
+    "appellation": [ "Napa Valley, St. Helena,", "Oakville & Pope Valley" ],
+    "composition": [ "59% Cabernet Sauvignon", "13% Petit Verdot, 11% Malbec", "9% Cabernet Franc, 8% Merlot" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Glenn continues the Girard tradition of terroir-driven and minimalist intervention. He brings a practical artisanal approach to winemaking with a focus on wine as part of the culinary experience."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Girard’s “ambitiously efficient” state of the art winery, located in the Carneros district, was constructed in 2007.  It was designed from the ground-up to ensure that our winery was a model of efficiency and “green” business practices.  Through all these improvements we still employ traditional winemaking techniques. All of the fruit is hand sorted and our red wines are cold soaked prior to fermentation and are aged in 100% French oak."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "We source Cabernet Sauvignon for the Artistry blend from St. Helena, Oakville and Pope Valley. These regions are well known for offering dark fruit and well-integrated tannin structure. Our Petite Verdot tends to be the last fruit brought in, allowing for very complex character and tannin development. Merlot from Carneros & Rutherford lends to the lush fruit components, while the Malbec from Yountville adds mid-palate weight."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The 2013 Artistry showcases essence of vanilla bean, perfumed herbs, raspberry and blackberry traits with a touch of toasted nuts. On the palate the black fruit comes forward with layered black currant and blackberry. French Oak lends mocha and vanilla accented spice and toasted sweetness."
+                }
+            ]
+        }
+    ]
+}

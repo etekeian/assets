@@ -1,0 +1,62 @@
+{
+    "winery": "Clos Pegase",
+    "wine": "Cabernet Sauvignon",
+    "vintage": "2013",
+    "alcohol": "14.9%",
+    "winemakers": [ "Robin Akhurst" ],
+    "appellation": [ "Napa Valley" ],
+    "composition": [ "100% Cabernet Sauvignon" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "For Winemaker, Robin Akhurst - a native of Scotland, the road to Napa took him around the globe, through eight consecutive and exhausting harvests, from Marlborough, New Zealand, Barossa Valley, Australia and Puligny-Montrachet, France. Robin’s winemaking beliefs are simple: to produce a wine that has balance, purity and an expressive character. He strives to make wines that are to be enjoyed among friends and on the dinner table with family."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Internationally-acclaimed architecture and a commitment to estate-grown Napa Valley wines make Clos Pegase one of the most distinctive wineries in the world. With nearly 300 acres of estate vineyards, a Michael Graves-designed winery, a state-of-the-art winemaking facility and a newly-planted Heritage Garden landscape, Clos Pegase is a celebration of Napa Valley wine and a landmark destination."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "A rare opportunity to source Cabernet Sauvignon from a number of renowned vineyard sites in Napa Valley for a special bottling project afforded us the chance to make a special non-Estate Napa Valley Cabernet Sauvignon from the 2013 vintage. Fruit was sourced from esteemed vineyards throughout Napa Valley known for producing high-intensity wines with deep color making this a unique wine but one that is still a true representation of Clos Pegase’s careful crafting to accentuate the delicacy of the fruit."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "This Napa Valley Cabernet Sauvignon has an inky purple color with heady dark fruit notes of blackberry compote and Mission figs. Ripe tannins and a rich mouthfeel are balanced by mineral-tinged fruit."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Sticky barbecued beef ribs or pan-roasted veal chops with Cabernet sauce."
+                }
+            ]
+        }
+    ]
+}

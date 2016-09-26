@@ -1,0 +1,95 @@
+{
+    "winery": "Francis Coppola",
+    "wine": "Claret",
+    "productName": "Francis Coppola\nDiamond\nClaret",
+    "vintage": "2014",
+    "alcohol": "13.5%",
+    "winemakers": [ "Corey Beck" ],
+    "appellation": [ "California" ],
+    "composition": [
+      "76% Cabernet Sauvignon",
+      "19% Petit Verdot, 3% Merlot",
+      "2% Cabernet Franc"
+    ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Director of Winemaking and General Manager Corey Beck has more than 20 years of experience in the wine industry. Corey joined Inglenook (formerly Rubicon Estate, Niebaum-Coppola) in 1998 as their assistant winemaker. In 2006, the Coppola family purchased the historic Château Souverain property in Sonoma County, providing a home for the ever-popular Diamond Collection wines, and appointed Corey as director of winemaking and general manager."
+                },
+                {
+                    "type": "quote",
+                    "text": "Harvest is not only about turning grapes into wine, but it’s a reflection of Mother Nature’s work throughout the growing season.",
+                    "authorName": "Corey Beck",
+                    "authorExtra": "Director of Winemaking"
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Winemaking has been a Coppola family tradition for several generations. Agostino Coppola, Francis Coppola's grandfather, used to make wine in the basement of his New York apartment building using concrete vats he constructed himself. According to Francis's Uncle Mikey, they weren't fancy wines, just pleasant everyday drinking wines that anyone could enjoy."
+                },
+                {
+                    "type": "plain",
+                    "text": "The wines that Francis Coppola makes today aren't the same as those Agostino made, but they are produced in the same spirit — for sharing with friends and family."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "In 2006, Francis and Eleanor Coppola purchased what would eventually become known as Francis Ford Coppola Winery, marking their initial foray into Sonoma County winemaking. After an extensive two-year renovation Francis reintroduced his eponymous winery in July 2010, which is one of the latest ventures from the five-time Academy Award-winning director, whose passion for wine, food and adventure is nowhere more evident than in this creative production — a winery resort located in the heart of Alexander Valley, California."
+                }
+            ]
+        },
+        {
+            "headerImage": "4.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "We thought we’d hit the jackpot with the 2013 vintage only to have another incredible season in 2014. Having great weather two years in a row optimizes the vines and what makes the 2014 vintage even more spectacular than its predecessor. Both red and white varietals developed wonderful concentration and are intensely fragrant and well balanced. This year’s Claret offers layers of complexity with robust flavors, richness, and well-hewn tannins."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Appearance: Purple magenta"
+                },
+                {
+                    "type": "plain",
+                    "text": "Aromas: Raspberries, plums, tobacco, and oak"
+                },
+                {
+                    "type": "plain",
+                    "text": "Flavors: Cherries, cassis, cloves, and toasted vanilla"
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Try pairing the Coppola Claret with different forms of red meat, lamb or pork shoulder such as beef tenderloin over wild-mushroom risotto, topped with crispy haystack onions and doused in a red wine based butter cream sauce."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "winery": "Seghesio",
+    "wine": "Sonoma Zinfandel",
+    "vintage": "2014",
+    "alcohol": "14.8%",
+    "winemakers": [ "Ted Seghesio" ],
+    "appellation": null,
+    "composition": [ "87% Zinfandel", "9% Petite Sirah", "2% Carignane", "2% Syrah" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Ted’s wines have been named to the Wine Spectator’s annual Top 100 List seven times. He has been honored with Decanter’s Best American Red Trophy in 2007, by Food & Wine’s American Wine Awards and by the San Francisco Chronicle’s Wine Competition as Winemaker of the Year."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The best Zinfandel grapes are grown in Sonoma County. For five generations, the Seghesio family has been carefully selecting sites which has allowed the family to secure fruit from the best Zinfandel producers."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Each vintage, we harvest multiple diverse lots of Zinfandel that span the entire Sonoma County Zinfandel landscape. The best of these lots are selected to make Sonoma Zinfandel."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Spicy, lush black fruit of Alexander Valley. Briary and raspberry flavors, along with structure, of cooler Dry Creek Valley. Balanced and elegantly structured."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Red sauces, pizza, barbecue, spicy cuisine and cured salami."
+                }
+            ]
+        }
+    ]
+}

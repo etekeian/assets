@@ -1,0 +1,52 @@
+{
+    "winery": "Rainstorm",
+    "wine": "Pinot Gris",
+    "vintage": "2015",
+    "alcohol": "13.0%",
+    "winemakers": [ "Nicolas Quille" ],
+    "appellation": [ "Oregon" ],
+    "composition": [ "100% Pinot Gris" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Nicolas was born in Lyon, France, to a family with three generations in the wine business. Nicolas holds a Master degree in Winemaking from the University of Dijon, Burgundy and a Masters in Sparkling Wine Business from the University of Reims, Champagne. He has been a winemaker for longer than 20 years. Nicolas is currently the Vice President of the International Riesling Foundation, a board member of the Washington winery sustainability group: Winewise, a member of the Washington State export committee and a hopeful student of the Master of Wine program."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "We strive to produce healthy and honest wines, to utilize local supplies from grape to bottle, to reduce our input and minimize our waste, and to provide a fair work environment for all our employees."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The majority of our grapes come from Oregon's Willamette Valley. With its cool climate, the region produces Pinot Gris with tonic acidity and very pretty floral notes. Our wine is fermented and aged in stainless steel preserving the freshness and delicate aromatics of Pinot Gris. This is a dry white wine with no new oak influence."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "We age our Pinot Gris for a minimum of six months on fermentation lees (for a rich yet bright body) and use no oak or malolactic fermentation. The final wine is bone dry and very refreshing. Our Pinot Gris portrays aromas of crisp pear and honey blossom and flavors of mango with fresh acidity."
+                }
+            ]
+        }
+    ]
+}

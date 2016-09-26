@@ -1,0 +1,66 @@
+{
+    "winery": "Swanson Vineyards",
+    "wine": "Pinot Grigio",
+    "vintage": "2015",
+    "alcohol": "14.5%",
+    "winemakers": [ "Robin Akhurst" ],
+    "appellation": [ "Sonoma County" ],
+    "composition": [ "100% Pinot Grigio" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "For Winemaker, Robin Akhurst — a native of Scotland — the road to Napa took him around the globe, through eight consecutive and exhausting harvests, from Marlborough, New Zealand, Barossa Valley, Australia and Puligny-Montrachet, France."
+                },
+                {
+                    "type": "plain",
+                    "text": "Robin’s winemaking beliefs are simple: to produce a wine that has balance, purity and an expressive character. He strives to make wines that are to be enjoyed among friends and on the dinner table with family."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The Swanson Vineyards wine facility was purchased in 1986, then renovated and expanded in 2000. Since then, Swanson Vineyards has been offering limited seated tastings in our Salon-modeled after a Parisian salon of the mid 1800’s, where handfuls of diverse and fascinating callers were graciously entertained with sinful libations."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Our Merlot is a blend of select vineyards located in Napa Valley’s Oakville district. Farmed impeccably, we are able to adjust our yield each year to achieve the perfect balance and ripeness levels we desire. Favoring quality over quantity we deliberately keep our crop low, to produce wines of intense flavor and complexity."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Pale golden straw in color, this Pinot Grigio calls to mind white jasmine blossom, crisp Asian pear, honey, Meyer lemon zest and cantaloupe."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Oysters on the half shell, grilled or sautéed shrimp or any light fish such as halibut, sole, sanddabs or black sea bass."
+                }
+            ]
+        }
+    ]
+}

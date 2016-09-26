@@ -1,0 +1,52 @@
+{
+    "winery": "Hedges CMS",
+    "wine": "Red Blend",
+    "vintage": "2015",
+    "alcohol": "13.5%",
+    "winemakers": [ "Sarah Hedges Goedhart" ],
+    "appellation": [ "Columbia Valley" ],
+    "composition": [ "Cabernet Sauvignon", "Merlot", "Syrah" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Sarah Hedges Goedhart joined as assistant winemaker in 2008, working under Pete Hedges, now retired. It was no accident that she would eventually become head of winemaking, growing up in the vines of the Red Mountain AVA as a young girl with her brother Christophe Hedges, and spending many summers in France with her french born mother, Anne-Marie Hedges. Her skills in the cellar are more naturally focused, as her love of native fermentations and wild yeasts allow her to express authenticity and transparency over facade winemaking."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Founded in 1987 by Tom and Anne-Marie Hedges, Hedges Cellars was the first winery in Washington State to commercially release wines based on blends. Concentrating on the terroir of Red Mountain, Hedges Cellars Winery sits in the center of the Red Mountain AVA in Eastern Washington state, classifying the winery as an Estate Grown and Bottled facility. Following the birth of the winery in 1987, Christophe Hedges, son of Tom and Anne-Marie, joined full time in 2001 as Estate Director. Sarah Hedges soon followed in 2006, setting the foundation for Hedges Cellars to transform into Hedges Family Estate."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Wine is all about place. Its about the Estate and Nature working together. Too many strive to fight this concept. While the normal processes of wineries is to simply strive for consistency, Hedges Family Estate farms Biodynamically, allowing the year, the place, and the farm all to give the most authentic expression in the wine. One could say that inconsistency is the goal, as no year is ever the same. Biodynamic farming goes beyond the rules of organic farming, its a philosophy that not only uses natural homeopathic aids, but also introduces the use of livestock in creating a balance of farm and place."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "CMS Red, Washington State's original blended red wine, has been produced and bottled by the estate since 1987. Consistently recognized as one of the best values in Washington State, CMS Red combines elegance and historic blending practices with top quality vineyard sources in the Columbia Valley. A style consistent with classic northern latitude wine growing, the CMS Red is known for a more Columbia Valley AVA regionally driven style, giving way to purity and structure over modernity."
+                }
+            ]
+        }
+    ]
+}

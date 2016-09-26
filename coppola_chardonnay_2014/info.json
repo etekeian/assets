@@ -1,0 +1,87 @@
+{
+    "winery": "Francis Coppola",
+    "wine": "Director's Chardonnay",
+    "productName": "Francis Coppola\nDirector's\nChardonnay",
+    "vintage": "2014",
+    "alcohol": "13.5%",
+    "winemakers": [ "Corey Beck" ],
+    "appellation": [ "Sonoma County" ],
+    "composition": [
+      "100% Chardonnay"
+    ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Director of Winemaking and General Manager Corey Beck has more than 20 years of experience in the wine industry. Corey joined Inglenook (formerly Rubicon Estate, Niebaum-Coppola) in 1998 as their assistant winemaker. In 2006, the Coppola family purchased the historic Château Souverain property in Sonoma County, providing a home for the ever-popular Diamond Collection wines, and appointed Corey as director of winemaking and general manager."
+                },
+                {
+                    "type": "quote",
+                    "text": "Harvest is not only about turning grapes into wine, but it’s a reflection of Mother Nature’s work throughout the growing season.",
+                    "authorName": "Corey Beck",
+                    "authorExtra": "Director of Winemaking"
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Winemaking has been a Coppola family tradition for several generations. Agostino Coppola, Francis Coppola's grandfather, used to make wine in the basement of his New York apartment building using concrete vats he constructed himself. According to Francis's Uncle Mikey, they weren't fancy wines, just pleasant everyday drinking wines that anyone could enjoy."
+                },
+                {
+                    "type": "plain",
+                    "text": "The wines that Francis Coppola makes today aren't the same as those Agostino made, but they are produced in the same spirit — for sharing with friends and family."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "In 2006, Francis and Eleanor Coppola purchased what would eventually become known as Francis Ford Coppola Winery, marking their initial foray into Sonoma County winemaking. After an extensive two-year renovation Francis reintroduced his eponymous winery in July 2010, which is one of the latest ventures from the five-time Academy Award-winning director, whose passion for wine, food and adventure is nowhere more evident than in this creative production — a winery resort located in the heart of Alexander Valley, California."
+                }
+            ]
+        },
+        {
+            "headerImage": "4.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "quote",
+                    "text": "What’s amazing about Sonoma County is that it’s one of only a few appellations in the world that offers a diverse range of microclimates that can accommodate both cool climate varietals such as Chardonnay and Pinot Noir as well as warm weather varietals like Cabernet and Merlot.",
+                    "authorName": "Corey Beck",
+                    "authorExtra": "Director of Winemaking"
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "By blending fruit grown in different locations, we get a wine that offers great dimension and complexity. This year’s warm vintage produced a very fragrant and juicy Chardonnay, which bestows an exotic perfume of melon, fig, tangerine and plumeria flowers followed by succulent flavors of peaches, pineapple, and spices that fold into a butterscotch finish."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Enjoy with prosciutto and melon, grilled swordfish, or spicy shrimp."
+                }
+            ]
+        }
+    ]
+}

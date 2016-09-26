@@ -1,0 +1,62 @@
+{
+    "winery": "Kenwood Six Ridges",
+    "wine": "Cabernet Sauvignon",
+    "vintage": "2012",
+    "alcohol": "14.5%",
+    "winemakers": [ "Pat Henderson" ],
+    "appellation": [ "Alexander Valley" ],
+    "composition": [ "95% Cabernet Sauvignon", "5% Merlot" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "As a veteran of more than 30 vintages, few people know more about Sonoma than Pat Henderson. Growing up in the region with a wine-loving family, his first taste for the craft of winemaking came from a neighbor who made his own wine. While winemaking always appealed to Pat, he considered it a hobby until starting at the University of California at Davis and stumbled across its winemaking course."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Kenwood’s roots run deep in this county. We truly are at the heart of Sonoma, where the winery was founded in 1970. We were one of a handful of wineries that started premium Sonoma wine at a time when Californian wine went through a renaissance."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "The 2012 growing season marked the first year of California's historic drought, stressing the vines and producing fruit with exceptional color and flavor. The dry spring and mild summer weather slowly brought our Alexander Valley Cabernet vineyards to the peak of ripeness in early October."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "This wine is full-bodied with smooth tannins that give way to a lingering, silky finish with a slight touch of cinnamon. There are fruit aromas of cherry and cassis join complex aromatic notes of lavender and cloves."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Being both full-bodied and elegant, our 2012 Six Ridges Cabernet Sauvignon is an excellent accompaniment to richly flavored food such as roast lamb, slow cooked barbecue ribs or Italian beef stew."
+                }
+            ]
+        }
+    ]
+}

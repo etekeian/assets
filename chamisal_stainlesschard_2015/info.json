@@ -1,0 +1,62 @@
+{
+    "winery": "Chamisal Vineyards",
+    "wine": "Stainless Chardonnay",
+    "vintage": "2015",
+    "alcohol": "13.5%",
+    "winemakers": [ "Fin du Fresne" ],
+    "appellation": [ "Central Coast" ],
+    "composition": [ "100% Chardonnay" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Though a winemaker’s domain is sometimes limited to the cellar, Winemaker Fintan “Fin” du Fresne is committed to spending an equal if not greater amount of time in the vineyards of Chamisal. “Our vineyards define the wines we make,” says the New Zealand native, who earned a degree in Geology before going on to earn his post-graduate degree in Viticulture and Enology at Lincoln University in Canterbury."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "In 1973 Chamisal became the first winery to plant vines in Edna Valley, a gamble that paved the way for one of the most revered wine regions of California. Our Central Coast vineyard is named for the native, white-flowered Chamise plant that thrives on the property. Planted to five grape varieties including Chardonnay, Pinot Noir, Grenache, Syrah and Pinot Gris, this exceptional estate vineyard is the centerpiece, source and inspiration of Chamisal’s bold and distinctive wines."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "This vintage was sourced from a number of coastally influenced vineyards ranging from Monterey County to San Luis Obispo. The common theme amongst these vineyards is cool climate, elevated sites with well drained sedimentary soils and naturally limited yields."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Tropical notes of juicy satsuma, ripe kiwi and mango are highlighted by aromas of candied lemon peel, apple blossom and refreshing minerality. The palate supports the nose, revealing the Stainless winemaking with its round, weighty mouthfeel. Crisp acidity and flavors of white nectarine, papaya and key lime pie round out the clean, lingering finish."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Seafood, poultry, spicy foods"
+                }
+            ]
+        }
+    ]
+}

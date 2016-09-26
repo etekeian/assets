@@ -1,0 +1,71 @@
+{
+    "winery": "Cosentino\u202F—\u202FTHE FRANC",
+    "wine": "Cabernet Franc",
+    "productName": "Cosentino\nTHE FRANC\nCabernet Franc",
+    "vintage": "2014",
+    "alcohol": "14.7%",
+    "winemakers": [ "Marty Peterson" ],
+    "appellation": [ "Lodi" ],
+    "composition": [ "100% Cabernet Franc" ],
+
+    "sections": [
+        {
+            "headerImage": "1.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Winemaker Marty Peterson comes from a family with a rich farming history. In 1904, his great-grandfather, Carl A. Peterson, made his way by ferry to Lodi, an agricultural community at the mouth of the Sacramento River Delta, 60 miles east of San Francisco, where he founded the family ranch."
+                },
+                {
+                    "type": "plain",
+                    "text": "As the winemaker for Cosentino, Marty draws on his deep roots in the Lodi region, as well as his knowledge of the Napa and Sonoma appellations, to create uniquely expressive wines of balance and complexity."
+                }
+            ]
+        },
+        {
+            "headerImage": "2.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Cosentino Winery was founded in 1980 and it’s the first stop to Napa Wine Country, located on the historic Saint Helena Highway in Napa, California and neighbor to Mustard’s Grill. Cosentino Winery is America’s first to designate and license Meritage wine, a Bordeaux inspired blend."
+                },
+                {
+                    "type": "plain",
+                    "text": "Our tasting room offers unique tasting experiences in THE Barrel Room or on THE Patio, an inviting outdoor tasting space added in 2015 that features fire and water elements."
+                }
+            ]
+        },
+        {
+            "headerImage": "3.jpg",
+            "headerText": null,
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Cosentino Winery has long championed the Lodi Appellation and proudly produces THE Wines series from vineyards in Lodi – an AVA renowned for its high-quality Zinfandel production, one of the leading regions in sustainable viticulture and Wine Enthusiast’s “Wine Region of the Year” in 2015."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Tasting Notes",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Deep crimson in color with sweet and spicy notes of fresh herbs and cloves on the nose. On the palate, intense flavors of fruit with hints of black pepper on the palate. Ends with great structure and long finish."
+                }
+            ]
+        },
+        {
+            "headerImage": null,
+            "headerText": "Pairing Ideas",
+            "paragraphs": [
+                {
+                    "type": "plain",
+                    "text": "Pairs with just about anything off the BBQ – for an elegant touch, try with roast duck with juniper berry compote."
+                }
+            ]
+        }
+    ]
+}
